@@ -1,10 +1,10 @@
-## Test Closure Report – NexHealth Site
+## Test Closure Report – Before Vs. After
 
 ### Following are the details of the website which was under test
 
-| Site Name | Site Link | Issue Type |
+| Site Name | Site Link | Site Category|
 |-------|--------|-------|
-| Nexhealth | ![Before – issue description](path/to/before-screenshot.png "Before: header misaligned") | ![After – fixed description](path/to/after-screenshot.png "After: header aligned properly") |
+| Nexhealth | https://nexhealth.com/ | Medical & Patent Health |
 
 **Explanation**  
 - *Before*: Briefly explain what was wrong in the “before” screenshot.  
