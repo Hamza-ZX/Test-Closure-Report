@@ -10,4 +10,4 @@
 - *Before*: Briefly explain what was wrong in the “before” screenshot.  
 - *After*: Describe how the issue was corrected in the “after” screenshot.
 
-**Note:** Provide a concise, plain‑text description alongside images instead of relying solely on visuals. Ensure each screenshot has appropriate alt text for clarity and accessibility :contentReference[oaicite:0]{index=0}.
+**Note:** Please download the file attached with this repo inorder to access the report 
