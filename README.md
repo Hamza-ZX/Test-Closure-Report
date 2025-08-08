@@ -1,10 +1,10 @@
 ## Test Closure Report – NexHealth Site
 
-### Resolved Styling Issues with Visual Comparison
+### Following are the details of the website which was under test
 
-| Issue | Before | After |
+| Site Name | Site Link | Issue Type |
 |-------|--------|-------|
-| Description of the specific styling issue (e.g., header misalignment, low contrast button) | ![Before – issue description](path/to/before-screenshot.png "Before: header misaligned") | ![After – fixed description](path/to/after-screenshot.png "After: header aligned properly") |
+| Nexhealth | ![Before – issue description](path/to/before-screenshot.png "Before: header misaligned") | ![After – fixed description](path/to/after-screenshot.png "After: header aligned properly") |
 
 **Explanation**  
 - *Before*: Briefly explain what was wrong in the “before” screenshot.  
