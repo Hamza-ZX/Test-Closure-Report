@@ -6,7 +6,7 @@
 |-------|--------|-------|
 | Nexhealth | https://nexhealth.com/ | Medical & Patent Health |
 
-**Explanation**  
+**Bug Screenshots Overview**  
 - *Before*: Briefly explain what was wrong in the “before” screenshot.  
 - *After*: Describe how the issue was corrected in the “after” screenshot.
 
