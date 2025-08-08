@@ -1,16 +1,1 @@
-## How to Download and View the Test Closure Report
 
-You can download the test closure report file and view it by following these steps:
-
-1. **Download the file**  
-   - If available via a direct link or GitHub Release asset:  
-     `[Download Report](https://github.com/your-user/your-repo/releases/download/v1.0/test-closure-report.pdf)`  
-     Clicking this link should initiate the file download. :contentReference[oaicite:0]{index=0}
-   - Alternatively, navigate to the repository, click the **Code** button, and select **Download ZIP** to get all files. Then extract to access the report.
-
-2. **Locate the downloaded file**  
-   By default, your browser saves files to your **Downloads** folder. :contentReference[oaicite:1]{index=1}
-
-3. **Open the file**  
-   - On most systems, simply **double-click** the file to open it with the appropriate default application.  
-   - If the file does not open or opens with the wrong app, **right-click → Open with...** and select the correct program.
